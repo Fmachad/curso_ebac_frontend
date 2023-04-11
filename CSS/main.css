@@ -2,3 +2,23 @@ header{
     background-color: antiquewhite;
     padding: 10px 20px; 
 }
+
+h1 {
+    color: red ;
+}
+
+h2 {
+    color: blue
+}
+
+#economy h2{
+    color: brown;
+}
+
+.creation-date {
+    color: #5f1313;    
+}
+
+* {
+    color:rgba(0, 0, 0, 0.6);
+}
