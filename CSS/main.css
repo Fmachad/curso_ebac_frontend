@@ -27,6 +27,10 @@ header li a {
 
 }
 
+a:hover{
+    text-decoration:underline ;
+}
+
 h1 {
     color: #fff;
 }
